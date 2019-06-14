@@ -1,0 +1,45 @@
+body {
+    max-width: 960px;
+    margin: auto;
+    background: url(../images/large_leather.png);
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+#train-img {
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+.container {
+    position: relative;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .center {
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    color: #6b6b6b;
+    font-size: 74px;
+    font-family: "Patua One", sans-serif;
+    
+  }
+
+  img { 
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+  }
+
+  .table-head {
+    font-size: 8px;
+  }
